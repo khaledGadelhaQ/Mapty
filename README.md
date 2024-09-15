@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://live-forkify.netlify.app/"><img src="https://github.com/khaledGadelhaQ/Mapty/blob/main/logo.png" alt="Mapty" width="400" height="140"></a>
+  <a href="https://live-mapty.netlify.app/"><img src="https://github.com/khaledGadelhaQ/Mapty/blob/main/logo.png" alt="Mapty" width="400" height="160"></a>
   <br>
-  <a href="https://live-forkify.netlify.app/">Mapty</a>
+  <a href="https://live-mapty.netlify.app/">Mapty</a>
   <br>
 </h1>
 
