@@ -8,7 +8,7 @@
 
 ## Demonstration 🖥️
 
-![Search](https://github.com/khaledGadelhaQ/Forkify/blob/main/src/img/recipeSearch.gif)
+![Demo](https://github.com/khaledGadelhaQ/Mapty/blob/main/demo.gif)
 
 ---
 
