@@ -14,7 +14,7 @@
 
 ## Deployed Version 🚀
 
-  Live demo (Feel free to visit) 👉🏻 : https://live-forkify.netlify.app/
+  Live demo (Feel free to visit) 👉🏻 : https://live-mapty.netlify.app/
   
 ---
 
